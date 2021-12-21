@@ -1,0 +1,87 @@
+html {
+    margin: 0px;
+    padding: 0px
+    } 
+    
+body{
+    background-color: whitesmoke;
+}
+
+
+.navbar {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: 'Lucida Handwriting' serif;
+    font-size: 1.0rem;
+    font-weight: 100;
+    top: 40px;
+    position: relative;
+}
+
+.navbar-brand {
+    font-family: 'Lucida Handwriting';
+    font-size: 1.5rem;
+}
+
+.navbar-toggler{
+    padding: 0.5px 3px;
+    background-color: whitesmoke;
+   }
+
+   .cards {
+       position: relative;
+       top: 85px;
+       width: 75%;
+       height: 75%;
+        
+    }
+
+    .card-img-top-three
+    {
+        height: 437px;
+    }
+
+    .card-img-top-two
+    {
+        height: 437px;
+    }
+
+    .card-img-top-one
+    {
+        height: 437px;
+    }
+
+    hr{
+        background-color: rosybrown;
+        position: relative;
+        top: 50px;
+    }
+
+    .card-title {
+        text-align:center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    }
+
+    .card-text {
+        text-align:center;
+        font-family: 'Lucida Handwriting';
+        font-size: xx-small;
+    }
+   
+    .cart {
+     display: flex;  
+    font-family: 'Lucida Handwriting';
+     font-size: small;
+     background-color: rosybrown;
+     border-color: rosybrown;
+     
+    }
+
+    .price {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: medium;
+     text-align: center;
+     color:grey
+    }
+

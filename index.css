@@ -1,0 +1,64 @@
+html {
+
+    margin: 0px;
+    padding: 0px;
+} 
+    
+body{
+    background-color: whitesmoke;
+}
+
+
+.navbar {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: 'Lucida Handwriting' serif;
+    font-size: 1.0rem;
+    font-weight: 100;
+    top: 40px;
+    position: relative;
+}
+
+.navbar-brand {
+    font-family: 'Lucida Handwriting';
+    font-size: 1.5rem;
+}
+
+.navbar-toggler{
+    padding: 0.5px 3px;
+    background-color: whitesmoke;
+   }
+
+.carousel .carousel-item {
+    max-height:850px;
+    position: relative;
+    top: 85px;
+}
+
+.carousel-item img {
+    object-fit:fill;
+    max-height:650px;
+    max-width: 90%;
+}
+
+.new-heading {
+font-family: 'Lucida Handwriting';
+text-align: center;
+color: rosybrown;
+font-weight: 400;
+
+}
+
+hr{
+    background-color: rosybrown;
+}
+
+
+/*  */
+.cards {
+    position: relative;
+    top: 25px;
+    width: 55%;
+    height: 55%;
+}
+    
