@@ -104,7 +104,7 @@ font-size: x-small;
               }
           
 .rating-2{
-    osition: absolute;
+    position: absolute;
     bottom: 80px;
     left: 43%;
     display: flex;
@@ -113,7 +113,7 @@ font-size: x-small;
 }
 
 .rating-3{
-    osition: absolute;
+    position: absolute;
     bottom: 80px;
     left: 43%;
     display: flex;
