@@ -1,7 +1,12 @@
 html {
-    margin: 0px;
-    padding: 0px
-    } 
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 0; 
+    background: transparent;  
+}
     
 body{
     background-color: whitesmoke;
@@ -85,3 +90,11 @@ body{
      color:grey
     }
 
+    .checked {
+      color: orange;
+      }
+
+    .rating{
+        position: relative;
+        left:100px;
+    }
