@@ -99,7 +99,7 @@ body{
       bottom: 70px;
       left: 43%;
       display: flex;
-      justify-content: space-between;
+      /* justify-content: space-between; */
       font-size: x-small;
     }
 
@@ -109,7 +109,7 @@ body{
         bottom: 70px;
         left: 43%;
         display: flex;
-        justify-content: space-between;
+        /* justify-content: space-between; */
         font-size: x-small;
       }
 
@@ -119,6 +119,6 @@ body{
         bottom: 70px;
         left: 43%;
         display: flex;
-        justify-content: space-between;
+        /* justify-content: space-between; */
         font-size: x-small;
       }

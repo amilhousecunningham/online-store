@@ -96,28 +96,28 @@ body{
  
 .rating-1{
 position: absolute;
-bottom: 80px;
+bottom: 70px;
 left: 43%;
 display: flex;
-justify-content: space-between;
+/* justify-content: space-between; */
 font-size: x-small;
               }
           
 .rating-2{
     position: absolute;
-    bottom: 80px;
+    bottom: 70px;
     left: 43%;
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     font-size: x-small;
 }
 
 .rating-3{
     position: absolute;
-    bottom: 80px;
+    bottom: 70px;
     left: 43%;
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     font-size: x-small;
 }
   
