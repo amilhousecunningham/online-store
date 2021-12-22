@@ -94,7 +94,31 @@ body{
       color: orange;
       }
 
-    .rating{
-        position: relative;
-        left:100px;
+      .rating-1{
+      position: absolute;
+      bottom: 70px;
+      left: 43%;
+      display: flex;
+      justify-content: space-between;
+      font-size: x-small;
     }
+
+
+    .rating-2{
+        position: absolute;
+        bottom: 70px;
+        left: 43%;
+        display: flex;
+        justify-content: space-between;
+        font-size: x-small;
+      }
+
+
+      .rating-3{
+        position: absolute;
+        bottom: 70px;
+        left: 43%;
+        display: flex;
+        justify-content: space-between;
+        font-size: x-small;
+      }

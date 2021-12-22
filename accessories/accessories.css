@@ -91,10 +91,34 @@ body{
     }
 
     .checked {
-        color: orange;
+        color: #ffa500;
         }
+ 
+.rating-1{
+position: absolute;
+bottom: 80px;
+left: 43%;
+display: flex;
+justify-content: space-between;
+font-size: x-small;
+              }
+          
+.rating-2{
+    osition: absolute;
+    bottom: 80px;
+    left: 43%;
+    display: flex;
+    justify-content: space-between;
+    font-size: x-small;
+}
+
+.rating-3{
+    osition: absolute;
+    bottom: 80px;
+    left: 43%;
+    display: flex;
+    justify-content: space-between;
+    font-size: x-small;
+}
   
-      .rating{
-          position: relative;
-          left:100px;
-      }
+  
