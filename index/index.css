@@ -55,10 +55,29 @@ hr{
 
 
 /*  */
-.cards {
+
+
+
+.new-arrivals-one{
+    max-height: 25%;
+    width: 25%;
     position: relative;
-    top: 25px;
-    width: 55%;
-    height: 55%;
+    left: 40px;
+
 }
-    
+
+.new-arrivals-two{
+    height: 25%;
+    width: 25%;
+    position: relative;
+
+}
+
+.new-arrivals-three{
+    height: 25%;
+    width: 25%;
+    position: relative;
+    right: 40px;
+
+
+}
