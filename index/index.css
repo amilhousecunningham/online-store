@@ -1,13 +1,13 @@
-html {
-    overflow: scroll;
-    overflow-x: hidden;
-}
-
+/* html {
+    /* overflow: scroll; */
+    /* overflow-x: hidden; */
+/* } */
+/* 
 ::-webkit-scrollbar {
     width: 0; 
-    background: transparent;  
-}
- 
+    background: transparent;
+} */
+  */
 body{
     background-color: whitesmoke;
 }
@@ -96,4 +96,21 @@ hr{
     background-color: lightgray;
  
 }
+
+.contact-heading{
+font-family: 'Lucida Handwriting';
+text-align: center;
+color: whitesmoke;
+
+
+}
+
+.contact-p{
+    font-family: 'Lucida Handwriting';
+    color: whitesmoke;
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+}
+    
 
